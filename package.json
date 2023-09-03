@@ -9,7 +9,12 @@
     "displayName": "Strapi Blurhash"
   },
   "dependencies": {
-    "plaiceholder": "^2.5.0"
+    "plaiceholder": "^2.5.0",
+    "react-intl": "^6.4.4"
+  },
+  "devDependencies": {
+    "@strapi/design-system": "^1.9.0",
+    "@strapi/helper-plugin": "^4.13.1"
   },
   "peerDependencies": {
     "@strapi/strapi": "^4.0.0"
